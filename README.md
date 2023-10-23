@@ -1,5 +1,6 @@
 # UCL Open Science Award for the Category "Professional Services Staff Activities"
-Winner: Miguel Xochicale, Advanced Research Computing Centre (ARC) and Wellcome / EPSRC Centre for Interventional and Surgical Sciences (WEISS).  My project truly stood out from 50 applications and nominations. It demonstrated a strong commitment to the promotion of open science practices.
+Winner: Miguel Xochicale, Advanced Research Computing Centre (ARC) and Wellcome / EPSRC Centre for Interventional and Surgical Sciences (WEISS). 
+My project truly stood out from 50 applications and nominations. It demonstrated a strong commitment to the promotion of open science practices. 
 
 ## Content
 * [Online Slides](https://oss-for-surgtech.github.io/ucl-open-science-awards-2023/slides/slides.html); [Source](slides) 
