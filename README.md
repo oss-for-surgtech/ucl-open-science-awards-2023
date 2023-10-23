@@ -22,3 +22,7 @@ git clone https://github.com/oss-for-surgtech/ucl-open-science-awards-2023.git
 ## References 
 https://blogs.ucl.ac.uk/open-access/2023/10/11/announcing-ucl-open-science-scholarship-award-winners/
 
+## :speaking_head: Contact  
+If you have specific questions about the content of this repository, you can contact [Miguel Xochicale](mailto:m.xochicale@ucl.ac.uk?subject="[UCL-OpenScience-Award2023]"). 
+If your question might be relevant to other people, please instead [open an issue](https://github.com/oss-for-surgtech/ucl-open-science-awards-2023/issues).
+
