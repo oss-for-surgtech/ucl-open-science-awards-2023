@@ -51,4 +51,5 @@ rm -rf .jekyll-cache/ _site/ Gemfile.lock
 
 ## References 
 * https://github.com/mxochicale/tools/tree/main/html-slides
+* https://github.com/hakimel/reveal.js/tree/master/dist/theme
 
