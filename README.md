@@ -4,8 +4,8 @@ My project truly stood out from 50 applications and nominations. It demonstrated
 
 ## Content
 * [My application](application).
-* Requirements and dependencies for html slides: [source](slides).
-* [Online Slides](https://oss-for-surgtech.github.io/ucl-open-science-awards-2023/slides/slides.html).
+* [Requirements and dependencies](slides) to reproduce [html slides](slides/slides.html).
+* [Online html slides](https://oss-for-surgtech.github.io/ucl-open-science-awards-2023/slides/slides.html).
 
 ## Event
 Event: UCL Open Science and Scholarship Awards Presentation   
