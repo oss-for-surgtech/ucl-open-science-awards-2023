@@ -3,10 +3,11 @@ Winner: Miguel Xochicale, Advanced Research Computing Centre (ARC) and Wellcome 
 My project truly stood out from 50 applications and nominations. It demonstrated a strong commitment to the promotion of open science practices. 
 
 ## Content
-* [Online Slides](https://oss-for-surgtech.github.io/ucl-open-science-awards-2023/slides/slides.html); [Source](slides) 
-* [My application](application)
+* [My application](application).
+* Requirements and dependencies for html slides: [source](slides).
+* [Online Slides](https://oss-for-surgtech.github.io/ucl-open-science-awards-2023/slides/slides.html).
 
-## Presentations 
+## Event
 Event: UCL Open Science and Scholarship Awards Presentation   
 When: Wednesday, October 25 · 2 - 3:30pm BST     
 Where: Garden Room, UCL Main Campus, Gower Street London WC1E 6AE   
