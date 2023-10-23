@@ -10,11 +10,10 @@ UCL Open Science and Scholarship Awards Presentation
 Register to the event [here](https://www.eventbrite.com/e/ucl-open-science-and-scholarship-awards-presentation-tickets-735448856327)
 
 ## Clone repository
-* Generate your SSH keys as suggested [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent). 
 * Clone the repository by typing (or copying) the following line in a terminal at your selected path in your machine:
 ```
 cd && mkdir -p $HOME/repositories/oss-for-surgtech && cd  $HOME/repositories/oss-for-surgtech
-git clone git@github.com:oss-for-surgtech/ucl-open-science-awards-2023.git
+git clone https://github.com/oss-for-surgtech/ucl-open-science-awards-2023.git
 ```
 ## References 
 https://blogs.ucl.ac.uk/open-access/2023/10/11/announcing-ucl-open-science-scholarship-award-winners/
