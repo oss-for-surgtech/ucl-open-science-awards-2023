@@ -5,9 +5,11 @@ Winner: Miguel Xochicale, Advanced Research Computing Centre (ARC) and Wellcome 
 * [Online Slides](https://oss-for-surgtech.github.io/ucl-open-science-awards-2023/slides/slides.html); [Source](slides) 
 * [My application](application)
 
-## Event - Wednesday, October 25 · 2 - 3:30pm BST 
-UCL Open Science and Scholarship Awards Presentation
-Register to the event [here](https://www.eventbrite.com/e/ucl-open-science-and-scholarship-awards-presentation-tickets-735448856327)
+## Presentations 
+Event: UCL Open Science and Scholarship Awards Presentation   
+When: Wednesday, October 25 · 2 - 3:30pm BST     
+Where: Garden Room, UCL Main Campus, Gower Street London WC1E 6AE   
+Registration: [Here](https://www.eventbrite.com/e/ucl-open-science-and-scholarship-awards-presentation-tickets-735448856327)
 
 ## Clone repository
 * Clone the repository by typing (or copying) the following line in a terminal at your selected path in your machine:
@@ -15,7 +17,7 @@ Register to the event [here](https://www.eventbrite.com/e/ucl-open-science-and-s
 cd && mkdir -p $HOME/repositories/oss-for-surgtech && cd  $HOME/repositories/oss-for-surgtech
 git clone https://github.com/oss-for-surgtech/ucl-open-science-awards-2023.git
 ```
+
 ## References 
 https://blogs.ucl.ac.uk/open-access/2023/10/11/announcing-ucl-open-science-scholarship-award-winners/
-
 
