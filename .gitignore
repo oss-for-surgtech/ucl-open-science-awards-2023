@@ -5,3 +5,8 @@
 ## ignores vim temporal files
 **/*.swp
 
+
+## site
+.jekyll-cache/ 
+_site/ 
+Gemfile.lock
