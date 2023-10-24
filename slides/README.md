@@ -50,6 +50,8 @@ rm -rf .jekyll-cache/ _site/ Gemfile.lock
 4. Online slides should be available here https://oss-for-surgtech.github.io/ucl-open-science-awards-2023/slides/slides.html
 
 ## References 
-* https://github.com/mxochicale/tools/tree/main/html-slides
-* https://github.com/hakimel/reveal.js/tree/master/dist/theme
+* https://github.com/mxochicale/tools/tree/main/html-slides  
+* ONLINE-HTML-SLIDES: https://mxochicale.github.io/tools/html-slides/template/slides.html  
+* HMTL-SOURCE: https://github.com/mxochicale/tools/blob/main/html-slides/template/slides.html  
+* https://github.com/hakimel/reveal.js/tree/master/dist/theme 
 
