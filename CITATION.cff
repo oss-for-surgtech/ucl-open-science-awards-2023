@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Xochicale
+  given-names: Miguel
+orcid: https://orcid.org/0000-0002-8225-7517
+title: Slides for 🏆 UCL Open Science Award for the Category Professional Services Staff Activities
+version: v1.0.0
+date-released: 2023-10-26
