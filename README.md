@@ -49,7 +49,8 @@ This work is licensed under a
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 ## :books: References 
-https://blogs.ucl.ac.uk/open-access/2023/10/11/announcing-ucl-open-science-scholarship-award-winners/
+* https://blogs.ucl.ac.uk/open-access/2023/10/11/announcing-ucl-open-science-scholarship-award-winners/
+* https://blogs.ucl.ac.uk/open-access/2023/10/26/open-science-scholarship-awards-winners/
 
 ## :speaking_head: Contact  
 If you have specific questions about the content of this repository, you can contact [Miguel Xochicale](mailto:m.xochicale@ucl.ac.uk?subject="[UCL-OpenScience-Award2023]"). 
